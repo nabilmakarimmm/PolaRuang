@@ -1,0 +1,1 @@
+var json_IbukotaKabupaten_7 = {"type":"FeatureCollection","name":"IbukotaKabupaten_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"KETERANGAN":"KABUPATEN TRENGGALEK"},"geometry":{"type":"Point","coordinates":[111.709153995625641,-8.047898152555859]}}]}
